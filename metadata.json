@@ -1,0 +1,6 @@
+{
+  "name": "Logistics Network Optimizer",
+  "description": "GPU-accelerated logistics and supply chain decision-support system leveraging BigQuery data pipelines, NVIDIA RAPIDS simulations, and Gemini Enterprise Agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
